@@ -2,7 +2,7 @@ chardet==3.0.4
 Django==2.1.11
 django-cors-headers==2.1.0
 gunicorn==19.7.1
-pdfminer.six==20170720
+pdfminer.six==20251107
 pycryptodome==3.6.6
 pytz==2017.3
 six==1.11.0
